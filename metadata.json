@@ -1,0 +1,6 @@
+{
+  "name": "Relayboard",
+  "description": "Ship what customers actually asked for. Pitch-perfect B2B SaaS customer feedback management and release notes for product teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

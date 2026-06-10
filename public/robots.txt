@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow indexing on interactive sandbox accounts
+Disallow: /demo
+Disallow: /not-found-fallback
+
+Sitemap: https://relayboard.com/sitemap.xml
